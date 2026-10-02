@@ -14,3 +14,16 @@ p {
     color: #333333;
     font-size: 20px;
 }
+.button {
+    display: inline-block;
+    background-color: #6c3ce9;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 18px;
+}
+
+.button:hover {
+    background-color: #4b20b5;
+}
