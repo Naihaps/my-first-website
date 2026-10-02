@@ -15,14 +15,18 @@ p {
     font-size: 20px;
 }
 .button {
-    display: inline-block;
+    display: block;
+    width: fit-content;
     background-color: #6c3ce9;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
     border-radius: 25px;
     font-size: 18px;
+    margin: 12px auto;
+    text-align: center;
 }
+
 .button:hover {
     background-color: #4b20b5;
 }
