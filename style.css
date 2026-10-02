@@ -23,6 +23,9 @@ p {
     border-radius: 25px;
     font-size: 18px;
 }
+.button:hover {
+    background-color: #4b20b5;
+}
 .profile {
     width: 150px;
     height: 150px;
@@ -30,8 +33,4 @@ p {
     border-radius: 50%;
     display: block;
     margin: 0 auto 20px;
-}
-
-.button:hover {
-    background-color: #4b20b5;
 }
